@@ -1,0 +1,5 @@
+Règles du jeu : "First Step" et "Training".
+
+"First Step" prépare au jeu "Training". Un clavier avec des nombres de 1 à 18 apparaît à l'écran et une voix énnonce des chiffres toutes les 4 secondes. Le joueur doit saisir le résultat de l'addition des deux derniers chiffres, en fonction de sa réponse l'écran devient vert ou rouge pendant un court instant. Le jeu peut être terminé à n'importe quel moment en appuyant sur le bonton "stop". 
+
+"Training" fonctionne de manière similaire à Entraîner l'addition, mais le jeu dure 17 minutes au total, avec deux pauses d'une minute chacune, sans possibilité d'arrêter le jeu. En outre, le jeu est adaptatif, c'est-à-dire qu'il s'accélère lorsque le joueur donne des réponses correctes et ralentit dans le cas contraire. Après 17 minutes, le jeu s'arrête et les joueurs ont la possibilité de demander leur score.
